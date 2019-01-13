@@ -2,16 +2,17 @@ url: https://jonasman.github.com
 baseurl: /teamsite
 
 # Site settings
-title: Awesome Title
+title: T Team
 email: your-email@domain.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: João Nunes
   pic: 1
-  position: Lead Designer
+  position: Co-founder - Lead iOS developer and Product Manager
+  description: Passionate about iOS and creating great products. João works at Zalando where he has aquired most of his experience.
   social:
     - title: twitter
       url: #
@@ -20,9 +21,10 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Luis Ramalho
   pic: 2
-  position: Lead Marketer
+  position: Lead Marketer, Frontend and Android developer
+  description: Luis works at Smartly where he is using his marketing and ads knowledge. Luis has studied computer science and is passionate about developing Android apps, building websites and creating great products. He is also an expert in phisioterapy. 
   social:
     - title: twitter
       url: #
@@ -31,9 +33,10 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Javier Martinez
   pic: 3
-  position: Lead Developer
+  position: Senior Product Manager
+  description: Javier has been working for top e-commerce compannies like Zalando and now he is currently at Amazon. Javier excells at Product managment, scrum master and has very strong communications skills. 
   social:
     - title: twitter
       url: #
@@ -57,8 +60,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 
+  - line: Europe
 
 # Build settings
 markdown: kramdown
