@@ -21,22 +21,22 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Luis Ramalho
+- name: Luís Ramalho
   pic: 2
-  position: Lead Marketer, Frontend and Android developer
-  description: Luis works at Smartly where he is using his marketing and ads knowledge. Luis has studied computer science and is passionate about developing Android apps, building websites and creating great products. He is also an expert in phisioterapy. 
+  position: Co-founder - Engineering Manager
+  description: Computer Science graduate and Engineering Business Management postgraduate Luís works at Smartly.io where he is using his business and technical skills to help companies grow.
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
+      url: https://twitter.com/luisramalho
+    - title: stack-overflow
+      url: https://stackoverflow.com/users/848250/lu%c3%ads-ramalho
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/luismanuelramalho/
 
 - name: Javier Martinez
   pic: 3
   position: Senior Product Manager
-  description: Javier has been working for top e-commerce compannies like Zalando and now he is currently at Amazon. Javier excells at Product managment, scrum master and has very strong communications skills. 
+  description: Javier has been working for top e-commerce compannies like Zalando and now he is currently at Amazon. Javier excells at Product managment, scrum master and has very strong communications skills.
   social:
     - title: twitter
       url: #
@@ -53,14 +53,14 @@ social:
     url:
   - title: stack-overflow
     url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
+  - title: bitbucket
     url: http://bitbucket.org/jekyll
   - title: github
     url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 
+  - line:
   - line: Europe
 
 # Build settings
