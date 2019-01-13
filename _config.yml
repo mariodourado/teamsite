@@ -45,6 +45,54 @@ people:
     - title: google-plus
       url: #
 
+- name: João Silva
+  pic: 4
+  position: Lead Java developer
+  description: João is a top developer working at Cern. His passion for quality lead him to be a lead developer in his team. João is experienced in ETH Blockchain and develops 
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Martin Talvari
+  pic: 5
+  position: Lead Strategy, Event Manager
+  description: A passionate communicator with good strategic eye. Martin worked for Slush and Myriad creating top conferences.
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Mário Dourado
+  pic: 6
+  position: Lead .Net developer
+  description: Developer at his heart, Mario also carries enterprenourship skills from previous startup. Mário is great at communication too.
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Nuno Alexandre
+  pic: 7
+  position: Lead Sales
+  description: Nuno started his career as a IT specialist but soon realized managment was his passion. Nuno works at Cominfo as a top sales advisor. Nuno excels at communication and negotiation.
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
